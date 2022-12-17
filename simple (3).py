@@ -1,6 +1,5 @@
 """
-This script allows you to manually control the simulator or Duckiebot
-using the keyboard arrows.
+This script allows the duckiebot to autonamouslly control it self via the MDS based upon visual cues of the enviornment obtained through the bots camera. 
 """
 from PIL import Image, ImageDraw
 import argparse
